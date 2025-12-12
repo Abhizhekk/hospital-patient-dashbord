@@ -146,11 +146,4 @@ Just tell me and I will update this section perfectly.
 
 ---
 
-If you want, I can also:
-✔️ Add screenshots to your README
-✔️ Add GIF animations
-✔️ Add a “Project Insights” section
-✔️ Add a “Conclusion” section
-
-Just tell me **“Add screenshots section”** or **“Add insights section”**.
 
