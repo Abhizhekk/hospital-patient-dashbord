@@ -1,7 +1,4 @@
-Here is a **perfect README.md** for your GitHub repository.
-It explains all your charts, pages, and insights in a **clean, professional** format — suitable for assignment, portfolio, and GitHub profile.
 
----
 
 # 📊 **Hospital Patient Dashboard – Power BI Project**
 
